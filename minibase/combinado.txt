@@ -1,0 +1,10 @@
+1 | Juan | 70000001 | La Paz | La Paz
+2 | María | 70000002 | El Alto | La Paz
+3 | Carlos | 70000003 | Cochabamba | Cochabamba
+4 | Ana | 70000004 | Santa Cruz de la Sierra | Santa Cruz
+5 | Luis | 70000005 | Sucre | Chuquisaca
+6 | Sofía | 70000006 | Oruro | Oruro
+7 | Pedro | 70000007 | Tarija | Tarija
+8 | Gabriela | 70000008 | Potosí | Potosí
+9 | Diego | 70000009 | Trinidad | Beni
+10 | Valeria | 70000010 | Cobija | Pando
